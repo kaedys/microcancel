@@ -1,0 +1,6 @@
+## Interface: 80000
+## Title: MicroCancel
+## Notes: Tiny addon that restores the /cancelaura functionality via the /cancel slash command
+## Version: 1.0.0
+
+MicroCancel.lua
